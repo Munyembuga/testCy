@@ -1,0 +1,22 @@
+name: my_app
+
+# Add your package description and other fields below
+
+# Example directory structure (remove this section in actual pubspec.yaml)
+# my_app
+# ├── lib
+# │   ├── services
+# │   │   ├── product_service.dart
+# │   │   ├── sqlite_service.dart
+# │   │   ├── firebase_service.dart
+# │   │   └── payment_service.dart
+# │   ├── models
+# │   │   ├── product.dart
+# │   │   └── payment.dart
+# │   ├── database
+# │   │   └── database_helper.dart
+# │   └── utils
+# │       └── constants.dart
+# ├── pubspec.yaml
+# ├── firebase.json
+# └── README.md

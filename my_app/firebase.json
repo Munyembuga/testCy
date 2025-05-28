@@ -1,0 +1,16 @@
+{
+  "database": {
+    "rules": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    }
+  },
+  "hosting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
